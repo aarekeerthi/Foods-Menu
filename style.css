@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&display=swap');
+.card-p{
+    text-align: center;
+    padding-top: 10px;
+}
+.heading{
+font-family: 'agbalumo',serif;
+text-align: center;
+padding-top: 50px;
+}
+.card:hover{
+    transform: scale(1.05);
+}
