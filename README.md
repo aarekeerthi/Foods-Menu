@@ -1,2 +1,2 @@
 # Foods-Menu
-This is a small website regarding food's menu using html and css
+This is a webpage in which the interface contains some food items as menu which was developed using html and css
